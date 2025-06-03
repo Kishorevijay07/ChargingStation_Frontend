@@ -1,0 +1,1 @@
+export const baseUrl = "https://chargingstation-backend-1.onrender.com";
