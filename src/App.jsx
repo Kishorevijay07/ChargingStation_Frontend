@@ -1,6 +1,6 @@
 import './App.css';
 import LandingPage from './pages/LandingPage';
-import Signup from './pages/signup';
+import Signup from './pages/Signup';
 import Login from './pages/Login';
 import ChargerPage from './components/ChargerPage.jsx';
 import { Routes, Route, Navigate, useLocation } from 'react-router-dom';
